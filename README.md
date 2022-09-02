@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TrongThang17
-- 👀 I’m interested in front - end
+- 👀 I’m interested in Mobile App 
 - 🌱 I’m currently learning IT at HaNoi Open University
 - 💞️ I’m looking to collaborate on GITHUB
 - 📫 How to reach me : email : Thang17062002@gmail.com or PhoneNumber: 0372682771
